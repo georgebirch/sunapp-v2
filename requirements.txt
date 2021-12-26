@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+dash
+plotly
+astropy
+matplotlib
+pyproj
+rasterio 
+geopandas
+shapely
